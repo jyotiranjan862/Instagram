@@ -1,2 +1,2 @@
-# Instagram
-this is the instagram using mern
+# clon of two good co
+
